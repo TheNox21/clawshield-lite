@@ -1,4 +1,5 @@
 # Before installing any AI skill… scan it first.
+Try it on ClawHub: [https://clawhub.ai/thenox21/clawshield-lite]
 
 # 🛡️ ClawShield Lite
 
